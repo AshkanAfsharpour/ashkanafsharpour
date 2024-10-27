@@ -17,7 +17,7 @@ My goal is to share my knowledge and help others in their journey as developersâ
 
 ## ðŸŒŸ Current Projects
 
-### 1. [DotNetFlare](https://github.com/AshkanAfsharpour/DotNetMastery/tree/main)
+### 1. [DotNetFlare](https://github.com/Dotnetflare/dotnetflare)
 A comprehensive journey through the C# and .NET universe. **DotNetFlare** covers:
 - **Data Structures and Algorithms** | Perfect for anyone looking to dive deep into the inner workings of code efficiency.
 - **Database Integrations and DevOps** | From SQL Server to Docker, every essential for back-end mastery.
