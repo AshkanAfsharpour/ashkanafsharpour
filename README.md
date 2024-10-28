@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Ashkan Afsharpour!
 
+<h1 align="center"> Hi, I'm Ashkan Afsharpour! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 Welcome to my GitHub! I’m a Full-Stack Developer based in Tehran, Iran, with over **7 years of experience** in building scalable and high-performance applications. I specialize in **.NET and Angular** development, with a strong focus on architecting enterprise-grade systems and solving complex problems. Here, you’ll find a collection of projects that I’ve built or contributed to, each reflecting my passion for innovation, efficiency, and clean code.
 
 ---
+
 
 ## 🔍 A Bit About Me
 
